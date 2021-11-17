@@ -38,5 +38,9 @@ body
     font-size: 20px;
 }
 
-
-
+#Nuevo
+{
+    font-size: 40px;
+    font-family: cursive;
+    color: indigo;
+}
