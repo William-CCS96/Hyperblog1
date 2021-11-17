@@ -27,7 +27,7 @@ body
 #container
 {
     width: 70%;
-    padding: 1em;
+    padding: 0;
     text-align: left;
     border: 1px solid #000;
     margin: 0 auto;
@@ -38,8 +38,3 @@ body
     font-size: 20px;
 }
 
-#Practica
-{
-    font-size: 30px;
-    color: green;
-}
