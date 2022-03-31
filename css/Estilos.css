@@ -51,10 +51,22 @@ body
     font-size: 40px;
     font-family: cursive;
     color: indigo;
+<<<<<<< HEAD
     background: white;
 }
 
 #post{
     background: white;
     padding: 1em;
+=======
+}
+#footer
+{
+    text-align: center;
+    font-style: oblique;
+    color: white;
+    background: #33A ;
+    padding: 0.5em;
+
+>>>>>>> footer
 }
