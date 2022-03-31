@@ -44,3 +44,12 @@ body
     font-family: cursive;
     color: indigo;
 }
+#footer
+{
+    text-align: center;
+    font-style: oblique;
+    color: white;
+    background: #33A ;
+    padding: 0.5em;
+
+}
